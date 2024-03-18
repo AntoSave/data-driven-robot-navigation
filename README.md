@@ -26,7 +26,7 @@ Moreover, we validated the results by leveraging a state-of-the-art robotics pla
 ## Simulation on the Robotarium
 The following video shows the simulation of the robot navigating in an uncertain environment using the proposed IOC algorithm. The robot is required to reach the desired destination and avoid obstacles. The cost is estimated from observations and used to compute the optimal policy.
 <p align="center">
-  <video width="800" src="./videos/robotarium-poposed-ioc.mp4" />
+  <video width="800" src="https://github.com/AntoSave/data-driven-robot-navigation/raw/main/videos/robotarium-poposed-ioc.mp4"></video>
 </p>
 
 ## Requirements
